@@ -9,4 +9,7 @@ if shape == "circle"
 
 elsif shape == "sphere"
   puts "your area is #{1.33*3.14*radius*radius}"
+  
+elsif shape != "sphere""cirlce"
+  puts "your answer is not a sphere or circle"
 end
