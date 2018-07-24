@@ -9,5 +9,5 @@ if shape == "circle"
 end
 
 elsif shape == "sphere"
-  puts "your area is #{1.33"
+  puts "your area is #{1.33*3.14*radius*radius"
 end
