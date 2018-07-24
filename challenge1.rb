@@ -1,7 +1,7 @@
 puts "whats the weather like?"
 weather = gets.chomp.to_i
 
-If weather > 70
+if weather > 70
 puts "your outfit is fine"
 
 elsif weather < 70 && weather > 30
