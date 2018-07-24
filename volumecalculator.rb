@@ -6,8 +6,7 @@ shape = gets.chomp
 
 if shape == "circle"
   puts "your area is #{3.14*radius*radius}"
-end
 
 elsif shape == "sphere"
-  puts "your area is #{1.33*3.14*radius*radius"
+  puts "your area is #{1.33*3.14*radius*radius}"
 end
