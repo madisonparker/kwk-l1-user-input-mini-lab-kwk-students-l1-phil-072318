@@ -7,4 +7,5 @@ puts "your outfit is fine"
 If weather <70 && > 30
 puts "grab a sweater"
 
-If weather 
+If weather < 30
+puts "stay inside"
