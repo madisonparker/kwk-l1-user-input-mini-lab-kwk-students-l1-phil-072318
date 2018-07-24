@@ -4,8 +4,9 @@ weather = gets.chomp.to_i
 If weather > 70
 puts "your outfit is fine"
 
-If weather < 70 && > 30
+elsif weather < 70 && weather > 30
 puts "grab a sweater"
 
-If weather < 30
+else weather < 30
 puts "stay inside"
+end
