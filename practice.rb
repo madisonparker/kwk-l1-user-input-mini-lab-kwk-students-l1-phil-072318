@@ -9,3 +9,7 @@ puts "good morning"
 
 elsif time > 10 && time < 16
 puts "good afternoon"
+
+else
+puts "good evening"
+end
