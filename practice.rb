@@ -1,5 +1,5 @@
 puts "What time is it?"
-time = get.chomp 
+time = get.chomp.to_i
 
 If time < 5
 puts "dont talk to me"
